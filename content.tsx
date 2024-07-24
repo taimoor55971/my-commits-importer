@@ -1,1 +1,1 @@
-console.log("nudko")
+console.log("lqadm")
