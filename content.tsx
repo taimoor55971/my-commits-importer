@@ -1,1 +1,1 @@
-console.log("lqadm")
+console.log("aamdr")
