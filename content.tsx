@@ -1,1 +1,1 @@
-console.log("iktco")
+console.log("snosm")
