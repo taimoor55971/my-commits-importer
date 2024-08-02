@@ -1,1 +1,1 @@
-console.log("stupe")
+console.log("rubye")
