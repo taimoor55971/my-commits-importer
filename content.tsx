@@ -1,1 +1,1 @@
-console.log("lquqy")
+console.log("ynshy")
