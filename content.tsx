@@ -1,1 +1,1 @@
-console.log("sekno")
+console.log("miyns")
