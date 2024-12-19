@@ -1,1 +1,1 @@
-console.log("jmiks")
+console.log("ncqtk")
